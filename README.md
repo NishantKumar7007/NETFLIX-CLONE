@@ -35,13 +35,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use the 
 - The design and inspiration for this project come from the official Netflix website.
 - Special thanks to the open-source community for providing helpful resources and tutorials on web development.
 
-## Contact
-
-If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
-
-- Your Name : [Satyam Aditya](www.linkedin.com/in/satyam-aditya-4b411922b)
-- Email: [satyamaditya567@gmail.com](mailto:satyamaditya567@gmail.com)
-
 ---
 
 Enjoy exploring the code and creating your own Netflix-like home pages!
